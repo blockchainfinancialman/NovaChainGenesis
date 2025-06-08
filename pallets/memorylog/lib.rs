@@ -1,0 +1,1 @@
+// MemoryLog pallet logic placeholder
